@@ -10,7 +10,7 @@
  - umm thats it , nothing much  ! 
 
 ## Usage : 
-**Note : Use Python 3.7+ !** 
+**Note : Only use Python 3.7+ !** 
 ```
 $ git clone https://github.com/devanshbatham/OpenRedireX
 $ cd OpenRedireX
